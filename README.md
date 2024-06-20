@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/eldoradodo"
   width="1200"
-  height="600"
+  height="1000"
 />
 </a>
